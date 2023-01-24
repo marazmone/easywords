@@ -1,0 +1,7 @@
+package com.marazmone.easywords
+
+interface Platform {
+    val name: String
+}
+
+expect fun getPlatform(): Platform
