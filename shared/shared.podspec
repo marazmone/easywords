@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '1.0'
     spec.homepage                 = 'Link to the Shared Module homepage'
-    spec.source                   = { :git => 'https://github.com/marazmone/easywords.git', :path => '../shared' }
+    spec.source                   = { :git => 'https://github.com/marazmone/easywords.git' }
     spec.authors                  = { 'serhiihulenko' => 'sergei.gulenko@gmail.com' }
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
